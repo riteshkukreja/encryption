@@ -1,14 +1,14 @@
 /**
- *	File: 		CeaserCipher.js
+ *	File: 		CaesarCipher.js
  *	Description: 
- *				Ceaser Cipher is one of the oldest encryption algorithm. It encrypt the ASCII characters by
+ *				Caesar Cipher is one of the oldest encryption algorithm. It encrypt the ASCII characters by
  *				shifting the characters by a specific offfset inside the ASCII table.
  *
  *	Author: 	Ritesh Kukreja
  *	Website: 	riteshkukreja.wordpress.com
  */
 
-var CeaserCipher = function() {
+var CaesarCipher = function() {
 
 	/**
 	 *	==================================================================
